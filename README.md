@@ -47,3 +47,20 @@ If you have any resources that you think would be helpful for others, feel free 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+# Star History
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=justsujay/nlp-zero-to-hero&type=Date&theme=dark
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=justsujay/nlp-zero-to-hero&type=Date"
+  />
+</picture>
+
+
+
